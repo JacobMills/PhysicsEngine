@@ -9,4 +9,4 @@ Presented here as-is from when I handed it in in 2012, complete with TODOs and u
 
 main.cpp is pretty much all setting up the demo scene. Explore core.cpp and the headers for implementations of the actual physics stuff.
 
-The entire thing is based on the engine presented in the book Game Physics Engine Development by Ian Millington, adapted for 2D: http://www.amazon.co.uk/Game-Physics-Engine-Development-Commercial-Grade/dp/0123819768
+The entire thing is based on the engine presented in the book Game Physics Engine Development by Ian Millington, adapted for 2D: http://procyclone.com/
